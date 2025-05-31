@@ -46,3 +46,10 @@ The system is structured around FreeRTOS tasks that manage the following functio
 
 
 ![RTOS System Image](rtos_image.jpg)
+
+
+## Demonstration
+
+📽️ **Demo Video:**  
+[Watch Demo on Google Drive](https://drive.google.com/file/d/1m01r5FwGq2cBsoCEca7Sovbl9MRNLC8M/view?usp=sharing)
+
