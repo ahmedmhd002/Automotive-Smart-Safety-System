@@ -45,4 +45,4 @@ The system is structured around FreeRTOS tasks that manage the following functio
 - **Semaphores/Mutexes:** Employed to ensure safe access to shared peripherals (e.g., LCD, buzzer).
 
 
-![RTOS System Image](images/rtos_image.jpg)
+![RTOS System Image](rtos_image.jpg)
