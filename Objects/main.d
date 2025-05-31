@@ -1,0 +1,29 @@
+./objects/main.o: main.c C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdio.h tm4c.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\include\FreeRTOS.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h \
+  RTE\RTOS\FreeRTOSConfig.h RTE\_Target_1\RTE_Components.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_armclang.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\.\m-profile\cmsis_armclang_m.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\include\projdefs.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\include\portable.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\include\deprecated_definitions.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\portable\GCC\ARM_CM4F\portmacro.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\include\mpu_wrappers.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\include\task.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\include\list.h \
+  LCD.c adc_speed.h Doors.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\include\semphr.h \
+  C:\Users\omari\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.5.1\Source\include\queue.h \
+  ultrasonic.h timer.h DIO.h bitwise_operations.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdbool.h
