@@ -43,3 +43,6 @@ The system is structured around FreeRTOS tasks that manage the following functio
 ### Inter-task Communication
 - **Queues:** Used for passing sensor data between producer and consumer tasks.
 - **Semaphores/Mutexes:** Employed to ensure safe access to shared peripherals (e.g., LCD, buzzer).
+
+
+![Alt Text](D:\ahmed\RTOS\rtos image.jpg)
